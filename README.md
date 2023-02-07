@@ -10,6 +10,10 @@
 <p align="left">
 <a href="https://linkedin.com/in/angel-esquinas-b39758200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angel esquinas" height="30" width="40" /></a>
 </p>
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+  
 ### Frontend  
 <div align="center">  
   <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
