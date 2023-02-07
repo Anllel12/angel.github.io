@@ -83,5 +83,5 @@
 <br/>  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anllel12&show_icons=true&locale=en&layout=compact&langs_count=10" alt="angel" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anllel12&show_icons=true&locale=en&layout=compact&langs_count=10&theme=github_dark" alt="angel" align="center" />
 </div>  
