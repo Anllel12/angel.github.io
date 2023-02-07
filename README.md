@@ -83,11 +83,5 @@
 <br/>  
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=anllel12&&style=flat-square" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anllel12&show_icons=true&locale=en&layout=compact&langs_count=10" alt="angel" align="center" />
 </div>  
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anllel12&show_icons=true&locale=en&layout=compact&langs_count=10" alt="angel" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=anllel12&show_icons=true&locale=en&count_private=true&include_all_commits=true" alt="angel" /></p>
-
-
