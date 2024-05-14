@@ -22,8 +22,7 @@
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>    
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
 </div>
 
@@ -59,11 +58,11 @@
 
 ## Github Stats  
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=anllel12&show_icons=true&count_private=true&hide_border=true&theme=github_dark" align="center" />
+    <img src="https://github-readme-stats.vercel.app/api username=anllel12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/>
 </div>  
 
 <br/>  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anllel12&show_icons=true&locale=en&layout=compact&langs_count=10&theme=github_dark" alt="angel" align="center" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anllel12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="angel languages graph"/>
 </div>  
