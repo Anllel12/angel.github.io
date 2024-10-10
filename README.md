@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ángel Esquinas Puig</h1>
 <h3 align="center">Computer Engineering - Application Development Technician</h3>
 
-- 🧑‍🎓 I’m currently studiying at **Universidad Europea**
+- 📜 I’m graduated in **Computer Engineering**
 - 📜 I’m graduated in **Application Development Technician**
 
 - 📧 How to reach me **angelesquinaspuig@gmail.com**
